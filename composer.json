@@ -6,9 +6,10 @@
     "license"   : "MIT",
     "authors"   : [
         {
-            "name"  : "Josh Lockhart",
-            "homepage"  : "https://github.com/codeguy",
-            'role'  : "Developer"
+            "name"  : "Jamesxu",
+            "homepage"  : "https://github.com/smelike",
+            "blog" : "http://cnblog.com/shuman"
+            "role"  : "Developer"
         }
     ],
     "support"   : {
